@@ -14,7 +14,7 @@ export default function EditUser() {
     }, []);
 
     function getUser() {
-        axios.get(`http://localhost:80/api/user/${id}`).then(function(response) {
+        axios.get(`sql6.freemysqlhosting.net/user/${id}`).then(function(response) {
             console.log(response.data);
             setInputs(response.data);
         });
