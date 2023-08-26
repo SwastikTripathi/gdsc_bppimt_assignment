@@ -11,14 +11,14 @@ export default function ListUser() {
     }, []);
     
     function getUsers() {
-        axios.get('http://localhost:80/api/user/save').then(function(response) {
+        axios.get('sql6.freemysqlhosting.net/user/save').then(function(response) {
             console.log(response.data);
             setUsers(response.data);
         });
     }
     
     const deleteUser = (id) => {
-        axios.delete(`http://localhost:80/api/user/${id}/delete`).then(function(response){
+        axios.delete(`sql6.freemysqlhosting.net/user/${id}/delete`).then(function(response){
             console.log(response.data);
             getUsers();
         });
