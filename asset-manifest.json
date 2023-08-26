@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gdsc_bppimt_assignment/static/css/main.1fffccc4.css",
+    "main.js": "/gdsc_bppimt_assignment/static/js/main.93d2c85f.js",
+    "index.html": "/gdsc_bppimt_assignment/index.html",
+    "main.1fffccc4.css.map": "/gdsc_bppimt_assignment/static/css/main.1fffccc4.css.map",
+    "main.93d2c85f.js.map": "/gdsc_bppimt_assignment/static/js/main.93d2c85f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fffccc4.css",
+    "static/js/main.93d2c85f.js"
+  ]
+}
