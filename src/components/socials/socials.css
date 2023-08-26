@@ -1,0 +1,8 @@
+.socialBtn {
+    transition: transform 250ms ease;
+    transform: scale(1);
+}
+
+.socialBtn:hover {
+    transform: scale(1.2);
+}
