@@ -16,7 +16,7 @@ export default function CreateUser() {
 
     const handleSubmit = (event) => {
         event.preventDefault();
-        axios.post('sql6.freemysqlhosting.net', inputs).then(function(response) {
+        axios.post('sql6.freemysqlhosting.net/user/save', inputs).then(function(response) {
             console.log(response.data);
             navigate('/');
             
