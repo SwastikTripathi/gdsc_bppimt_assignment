@@ -14,7 +14,7 @@ export default function EditUser() {
     }, []);
 
     function getUser() {
-        axios.get(`sql6.freemysqlhosting.net/user/${id}`).then(function(response) {
+        axios.get(`https://gdscasssignment.000webhostapp.com/index.php/user/${id}`).then(function(response) {
             console.log(response.data);
             setInputs(response.data);
         });

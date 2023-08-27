@@ -18,7 +18,7 @@ export default function ListUser() {
     }
     
     const deleteUser = (id) => {
-        axios.delete(`sql6.freemysqlhosting.net/user/${id}/delete`).then(function(response){
+        axios.delete(`https://gdscasssignment.000webhostapp.com/index.php/user/${id}/delete`).then(function(response){
             console.log(response.data);
             getUsers();
         });
