@@ -11,7 +11,7 @@ export default function ListUser() {
     }, []);
     
     function getUsers() {
-        axios.get('https://gdscasssignment.000webhostapp.com/user').then(function(response) {
+        axios.get('https://gdscasssignment.000webhostapp.com/index.php/api/user').then(function(response) {
             console.log(response.data);
             setUsers(response.data);
         });
