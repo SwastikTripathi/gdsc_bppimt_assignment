@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gdsc_bppimt_assignment/static/css/main.1fffccc4.css",
-    "main.js": "/gdsc_bppimt_assignment/static/js/main.c4fc8ab9.js",
+    "main.js": "/gdsc_bppimt_assignment/static/js/main.15d4f2c0.js",
     "index.html": "/gdsc_bppimt_assignment/index.html",
     "main.1fffccc4.css.map": "/gdsc_bppimt_assignment/static/css/main.1fffccc4.css.map",
-    "main.c4fc8ab9.js.map": "/gdsc_bppimt_assignment/static/js/main.c4fc8ab9.js.map"
+    "main.15d4f2c0.js.map": "/gdsc_bppimt_assignment/static/js/main.15d4f2c0.js.map"
   },
   "entrypoints": [
     "static/css/main.1fffccc4.css",
-    "static/js/main.c4fc8ab9.js"
+    "static/js/main.15d4f2c0.js"
   ]
 }
