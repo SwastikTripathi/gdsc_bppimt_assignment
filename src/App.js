@@ -22,7 +22,7 @@ export default function App() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-            <Nav.Link href="#link">Home</Nav.Link>
+            <Nav.Link href="#link">Home check</Nav.Link>
             <Nav.Link href="#link">Our&nbsp;Goals</Nav.Link>
             <Nav.Link href="#link">Our&nbsp;Works</Nav.Link>
             <Nav.Link href="#link">Guidelines</Nav.Link>
