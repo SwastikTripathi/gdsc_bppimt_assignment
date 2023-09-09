@@ -14,7 +14,7 @@ export default function Works() {
         </div>
       <div style={{width: '45%', textAlign: 'center'}}>
         <p>Google Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome.Google Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome.</p>
-        <img src="/assets/portrait.jpeg" style={{height: '80px'}}></img>
+        <img src="https://i.ibb.co/n6CZyjv/download-2.jpg" style={{height: '80px'}}></img>
         <h5>student</h5>
         <h6>just like you</h6>
       </div>
