@@ -17,12 +17,12 @@ export default function App() {
       <Navbar sticky="top" expand="lg" className="bg-body-tertiary">
       <Container style={{padding: '0.5rem 0.5rem'}}>
         <Navbar.Brand href="#home">
-        <img src='/assets/gdsc_logo_pic.png' style={{width: '40px'}}></img><span>&ensp;Google Student Developer Club BPPIMT</span>
+        <img src='https://i.ibb.co/LNfRbtK/gdsc-logo-pic.png' style={{width: '40px'}}></img><span>&ensp;Google Student Developer Club BPPIMT</span>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-            <Nav.Link href="#link">Home check</Nav.Link>
+            <Nav.Link href="#link">Home</Nav.Link>
             <Nav.Link href="#link">Our&nbsp;Goals</Nav.Link>
             <Nav.Link href="#link">Our&nbsp;Works</Nav.Link>
             <Nav.Link href="#link">Guidelines</Nav.Link>
@@ -65,7 +65,7 @@ That's it! Welcome aboard.
             <a href="#link" className='btn  bg-white m-1'>Learn more</a>
         </div>
         <div>
-            <img src='/assets/gdsc_poster.png' style={{width: '45vw'}}></img>
+            <img src='https://i.ibb.co/jL61N5X/gdsc-poster.png' style={{width: '45vw'}}></img>
         </div>
       </div>
       

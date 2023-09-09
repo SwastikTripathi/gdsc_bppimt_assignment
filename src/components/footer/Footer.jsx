@@ -27,18 +27,18 @@ export default function Footer() {
         </div>
       </div>
       <div style={{width: '20%'}} className='d-flex'>
-        <img src="assets/bppimt.png" style={{width: '100px', margin: 'auto'}}></img>
-        <img src="assets/gdsc_logo_pic.png" style={{width: '100px', margin: 'auto'}}></img>
+        <img src="https://i.ibb.co/TPTvy66/bppimt.png" style={{width: '100px', margin: 'auto'}}></img>
+        <img src="https://i.ibb.co/LNfRbtK/gdsc-logo-pic.png" style={{width: '100px', margin: 'auto'}}></img>
       </div>
     </div>
     
     <hr className='mx-auto text-primary' style={{width: '20%'}}/>
       <p className='text-center'>Made with</p>
     <p className='text-center d-flex justify-content-center'>
-    &ensp;<img src='/assets/react.png' style={{width: '40px'}} />&ensp;
-    &ensp;<img src='/assets/php.png' style={{width: '40px'}} />&ensp;
-    &ensp;<img src='/assets/sql.png' style={{width: '40px'}} />&ensp;
-    &ensp;<img src='/assets/wamp.png' style={{width: '40px'}} />&ensp;
+    &ensp;<img src='https://i.ibb.co/QjtjLZb/react.png' style={{width: '40px'}} />&ensp;
+    &ensp;<img src='https://i.ibb.co/23Vf1Fb/php.png' style={{width: '40px'}} />&ensp;
+    &ensp;<img src='https://i.ibb.co/9Hdd8xx/sql.png' style={{width: '40px'}} />&ensp;
+    &ensp;<img src='https://i.ibb.co/Sc1qqsH/wamp.png' style={{width: '40px'}} />&ensp;
     </p>
     </div>
   )
